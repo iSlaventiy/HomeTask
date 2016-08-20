@@ -11,7 +11,7 @@ public class Triangle {
             double a = scanner.nextInt();
             double b = scanner.nextInt();
             if (a<0 || b<0){
-                System.out.println("Катетав НЕТ");
+                System.out.println("Катетов НЕТ");
             }
 
             double pl = a*b*0.5;
